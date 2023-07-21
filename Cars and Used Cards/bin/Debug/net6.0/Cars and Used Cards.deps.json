@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Cars and Used Cards/1.0.0": {
+        "runtime": {
+          "Cars and Used Cards.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Cars and Used Cards/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
